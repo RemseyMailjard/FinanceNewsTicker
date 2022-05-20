@@ -1,0 +1,8 @@
+C:\Users\Remse\Desktop\Naslaginformatie\C# and dotnet\Repo\FinanceNewTicker\FinanceNewTicker\obj\Release\net6.0\PubTmp\Out\FinanceNewTicker.exe
+C:\Users\Remse\Desktop\Naslaginformatie\C# and dotnet\Repo\FinanceNewTicker\FinanceNewTicker\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Remse\Desktop\Naslaginformatie\C# and dotnet\Repo\FinanceNewTicker\FinanceNewTicker\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Remse\Desktop\Naslaginformatie\C# and dotnet\Repo\FinanceNewTicker\FinanceNewTicker\obj\Release\net6.0\PubTmp\Out\FinanceNewTicker.dll
+C:\Users\Remse\Desktop\Naslaginformatie\C# and dotnet\Repo\FinanceNewTicker\FinanceNewTicker\obj\Release\net6.0\PubTmp\Out\FinanceNewTicker.deps.json
+C:\Users\Remse\Desktop\Naslaginformatie\C# and dotnet\Repo\FinanceNewTicker\FinanceNewTicker\obj\Release\net6.0\PubTmp\Out\FinanceNewTicker.runtimeconfig.json
+C:\Users\Remse\Desktop\Naslaginformatie\C# and dotnet\Repo\FinanceNewTicker\FinanceNewTicker\obj\Release\net6.0\PubTmp\Out\FinanceNewTicker.pdb
+C:\Users\Remse\Desktop\Naslaginformatie\C# and dotnet\Repo\FinanceNewTicker\FinanceNewTicker\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll

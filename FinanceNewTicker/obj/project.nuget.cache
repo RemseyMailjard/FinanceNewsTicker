@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ayjBKE1NPRShwG9g7zH6mKS/vjCfLJvWNk7jaGxntJ4eyGBvoid1pj3RYKCbTGfBJZv644RZ82mjJiPAX7y4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Remse\\Desktop\\Naslaginformatie\\C# and dotnet\\Repo\\FinanceNewTicker\\FinanceNewTicker\\FinanceNewTicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Remse\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
